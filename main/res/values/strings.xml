@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DeepFakeDetectionApp</string>
+    <string name="detect_button">Detect Button</string>
+    <string name="detect_history">탐지 기록 보기</string>
+    <string name="tab_detect">딥페이크 탐지</string>
+    <string name="tab_example">딥페이크 예시</string>
+    <string name="tab_stat">딥페이크 통계</string>
+</resources>
